@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="vue" type="HTML" />
       <mapping pattern="TestDemo.java" type="PLAIN_TEXT" />
+      <mapping pattern="章节" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" approved="true" type="Vue.js" />
       <removed_mapping ext="vue" approved="true" type="Vue.js" />
     </extensionMap>
