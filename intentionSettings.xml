@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Concurrency/Convert to ThreadLocal" />
     <ignoreAction name="Java/Modifiers/Change access modifier" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
